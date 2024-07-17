@@ -1,0 +1,42 @@
+{
+  "name": "John Doe",
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "12345"
+  },
+  "orders": [
+    {
+      "id": 1,
+      "items": [
+        {
+          "name": "Product A",
+          "price": 10.99
+        },
+        {
+          "name": "Product B",
+          "price": 5.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "items": [
+        {
+          "name": "Product C",
+          "price": 7.99
+        },
+        {
+          "name": "Product D",
+          "price": 3.99
+        }
+      ]
+    }
+  ],
+  "interests": [
+    "reading",
+    "hiking",
+    "coding"
+  ]
+}
