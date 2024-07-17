@@ -1,0 +1,42 @@
+{
+  "address": {
+    "city": "10.804 Anytown",
+    "state": "10.805 CA",
+    "street": "10.803 123 Main St",
+    "zip": "10.806 12345"
+  },
+  "interests": [
+    "10.817 reading",
+    "10.818 hiking",
+    "10.819 coding"
+  ],
+  "name": "10.802 John Doe",
+  "orders": [
+    {
+      "id": "10.807 1",
+      "items": [
+        {
+          "name": "10.808 Product A",
+          "price": "10.809 10.99"
+        },
+        {
+          "name": "10.810 Product B",
+          "price": "10.811 5.99"
+        }
+      ]
+    },
+    {
+      "id": "10.812 2",
+      "items": [
+        {
+          "name": "10.813 Product C",
+          "price": "10.814 7.99"
+        },
+        {
+          "name": "10.815 Product D",
+          "price": "10.816 3.99"
+        }
+      ]
+    }
+  ]
+}

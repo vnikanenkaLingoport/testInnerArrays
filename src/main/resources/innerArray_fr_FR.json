@@ -1,0 +1,42 @@
+{
+  "name": "John Doe",
+  "address": {
+    "street": "123 rue Main",
+    "city": "N'importe quelle ville",
+    "state": "CALIFORNIE",
+    "zip": "12345"
+  },
+  "orders": [
+    {
+      "id": "1",
+      "items": [
+        {
+          "name": "Produit A",
+          "price": "10,99"
+        },
+        {
+          "name": "Produit B",
+          "price": "5,99"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "items": [
+        {
+          "name": "Produit C",
+          "price": "7,99"
+        },
+        {
+          "name": "Produit D",
+          "price": "3,99"
+        }
+      ]
+    }
+  ],
+  "interests": [
+    "en train de lire",
+    "randonnée",
+    "codage"
+  ]
+}
