@@ -1,42 +1,51 @@
 {
-  "name": "John Doe",
-  "address": {
-    "street": "123 Main St",
-    "city": "Anytown",
-    "state": "CA",
-    "zip": "12345"
-  },
-  "orders": [
+  "array": [
     {
-      "id": "1",
-      "items": [
-        {
-          "name": "Product A",
-          "price": "10.99"
-        },
-        {
-          "name": "Product B",
-          "price": "5.99"
-        }
+      "name": "John Doe",
+      "age": "30",
+      "occupation": "Developer",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "interests": [
+        "reading",
+        "hiking",
+        "coding"
       ]
     },
     {
-      "id": "2",
-      "items": [
-        {
-          "name": "Product C",
-          "price": "7.99"
-        },
-        {
-          "name": "Product D",
-          "price": "3.99"
-        }
+      "name": "Jane Doe",
+      "age": "25",
+      "occupation": "Designer",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Othertown",
+        "state": "NY",
+        "zip": "67890"
+      },
+      "interests": [
+        "drawing",
+        "photography",
+        "traveling"
+      ]
+    },
+    {
+      "name": "Bob Smith",
+      "age": "40",
+      "occupation": "Manager",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Thistown",
+        "state": "TX",
+        "zip": "34567"
+      },
+      "interests": [
+        "golf",
+        "reading",
+        "cooking"
       ]
     }
-  ],
-  "interests": [
-    "reading",
-    "hiking",
-    "coding"
-  ]
-}
+  ]}
