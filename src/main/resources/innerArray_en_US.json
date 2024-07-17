@@ -8,28 +8,28 @@
   },
   "orders": [
     {
-      "id": 1,
+      "id": "1",
       "items": [
         {
           "name": "Product A",
-          "price": 10.99
+          "price": "10.99"
         },
         {
           "name": "Product B",
-          "price": 5.99
+          "price": "5.99"
         }
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "items": [
         {
           "name": "Product C",
-          "price": 7.99
+          "price": "7.99"
         },
         {
           "name": "Product D",
-          "price": 3.99
+          "price": "3.99"
         }
       ]
     }
